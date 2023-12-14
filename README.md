@@ -1,5 +1,5 @@
 # ghost-medium-migration-tool
-Dockerimage to run the "Migrate Medium Export" tool from Ghost
+Dockerimage to run the "Migrate Medium Export" tool from Ghost (see https://github.com/TryGhost/migrate/tree/main/packages/mg-medium-export)
 
 Build Docker image:
 ```
